@@ -16,8 +16,15 @@ The framework employs a **dual-pathway design**:
 ### 🔗 Adaptive Fusion
 The outputs are integrated at a **Late Fusion Node** via an adaptive gating mechanism, allowing technical confidence to modulate biological findings for superior predictive performance.
 
+## 📝 Citation
+If you use this work in your research, please cite:
+
+ Boutorh, Aicha, Kamar Hibatallah Baghdadi, and Anais Daoud. "VAMP-Net: An Interpretable Multi-Path Network of Genomic Permutation-Invariant Set Attention and Quality-Aware 1D-CNN for MTB Drug Resistance." arXiv preprint arXiv:2512.21786 (2026) 
+
+
 ## 🛠️ Installation
 ```bash
 git clone [https://github.com/YourUsername/VAMP-Net.git](https://github.com/YourUsername/VAMP-Net.git)
 cd VAMP-Net
 pip install -r requirements.txt
+
