@@ -1,6 +1,7 @@
-#VAMP-Net: 
-Variant-Aware Multi-Path Network (VAMP-Net) Architecture. The
-framework employs a dual-pathway design to disentangle biological signal from technical noise. Path
+# VAMP-Net 🧬
+## Variant-Aware Multi-Path Network for Drug Resistance Prediction
+
+The framework employs a dual-pathway design to disentangle biological signal from technical noise. Path
 1 (Biological Topology) utilizes a Set Attention Transformer (SAB) to process genomic vari-
 ant sequences as unordered sets; the multi-head attention mechanism captures high-order epistatic
 interactions between mutations while maintaining permutation invariance. Simultaneously, Path 2
